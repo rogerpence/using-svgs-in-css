@@ -176,6 +176,8 @@ div.button-group {
 
 /* Filament Group select tag */
 
+/* https://www.filamentgroup.com/lab/select-css.html */
+
 /* class applies to select element itself, not a wrapper element */
 .select-css {
 	display: block;
