@@ -29,7 +29,7 @@ and it can be changed to any six-character hex color value.
 
 ### A little more on the SVG
 
-The SVG value above has be URL encoded. Use an [online decoder](https://www.urldecoder.org/) to see its decoded value as shown below:
+The SVG value above has to be URL encoded. Use an [online decoder](https://www.urldecoder.org/) to see its decoded value as shown below:
 
 ![](https://rogerpence.com/storage/images/decoding-an-svg.2458680.40177.png)
 
